@@ -1,0 +1,30 @@
+.cabeza
+{
+	border-radius: 10px;
+	border-style: groove;
+	border-color: #283E7B ;
+	border-width: 10px;
+	background-color: #7C97DD;
+	color: black;
+	font-family: Times;
+	font-style: italic;
+	font-size: 20px;
+	text-align: justify;
+}
+
+td.cuerpo
+{
+	border-radius: 50px 10px;
+	border-color: #2A499E;
+	border-style: dashed;
+	border-width: 5px;
+	background-color: #CFD9F2;
+}
+
+a.cuerpo
+{
+	color: black;
+	font-family: Times;
+	font-style: 	;
+	font-size: 20px;
+}

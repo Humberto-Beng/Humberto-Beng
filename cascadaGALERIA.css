@@ -1,0 +1,51 @@
+header
+{
+	background-color: black;
+	color: white;
+	border-style: solid;
+  	border-width: 5px;
+	border-radius: 5px 10px;
+	border-color: black;
+}
+
+footer
+{
+	padding: 10px 20px; 
+	background: #666; 
+	color: white;
+}
+
+.algor
+{
+	font-style: italic;
+	color: gray;
+}
+
+.otroF
+{
+	padding: 5px 10px; 
+	background: gray; 
+	color: white;
+	object-fit: cover;
+}
+
+.imag
+{
+	border-radius: 10px;
+	border-style: dashed;
+	border-color: #283E7B ;
+}
+
+.cabeza
+{
+	border-radius: 10px;
+	border-style: groove;
+	border-color: #283E7B ;
+	border-width: 10px;
+	background-color: #7C97DD;
+	color: black;
+	font-family: Times;
+	font-style: italic;
+	font-size: 20px;
+	text-align: justify;
+}

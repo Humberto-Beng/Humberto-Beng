@@ -1,0 +1,51 @@
+img { 
+    display:block;
+    }
+
+table.intro
+{
+    margin: 0px;
+    border: 10px solid #4A597E ;
+    font-style:italic;
+    border-style: inset;
+    background-color:;
+}
+
+td.menu
+{
+	padding: 0;
+	float: center;
+	background-color: #13EC7C;
+	border-style: ridge;
+	border-color: #2C7F00 ;
+	border-radius: 15px 50px;
+}
+
+
+a.menu
+{
+	color: black;
+	font-family: Times;
+	font-style: 	;
+	font-size: 20px;
+}
+
+td.cuerpo
+{
+	border: 5px solid #0C266D;
+	border-radius: 10px;
+	font-family: Times;
+	font-size: 20px;
+	margin: 10px;
+	border-style: groove;
+}
+
+a.cuerpo
+{
+	color: black;
+	font-family: Times;
+	font-style: italic;
+	font-size: 20px;
+	text-align: justify;
+}
+
